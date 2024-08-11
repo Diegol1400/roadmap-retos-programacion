@@ -12,7 +12,7 @@ para crear comentarios de varias líneas.
 # Variables
 entero = 14            # Entero
 flotante = 3.14         # Flotante
-doble = 6.71828         # Python no distingue entre float y double, usa solo float
+doble = 9.71828         # Python no distingue entre float y double, usa solo float
 caracter = 'P'          # Carácter, aunque en Python no hay tipo char específico
 cadena = "Python"       # Cadena de texto
 booleano = True         # Booleano (True o False)
